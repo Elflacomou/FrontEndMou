@@ -17,3 +17,15 @@ html {
     margin: 0 auto;
     display: block;
   }
+
+  div.card-body{
+    color: black;
+    font-size: 1rem;
+  }
+  
+  div.card{
+  border: 3px solid #458838; 
+}
+.card{
+  color: black;
+}

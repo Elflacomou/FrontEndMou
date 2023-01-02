@@ -1,0 +1,28 @@
+[
+    {
+        "nombre": "Tito",
+        "apellido": "Cosa",
+        "edad": 38,
+        "nacionalidad": "Argentina",
+        "asiento": [
+            {
+                "numero": 10,
+                "letra": "E",
+                "ventana": true
+            }
+        ]
+    },
+    {
+        "nombre": "Belen",
+        "apellido": "Gualarga",
+        "edad": 26,
+        "nacionalidad": "Argentina",
+        "asiento": [
+            {
+                "numero": 11,
+                "letra": "A",
+                "ventana": true
+            }
+        ]
+    }
+]
